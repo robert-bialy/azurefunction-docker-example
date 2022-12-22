@@ -1,4 +1,4 @@
-# Azure function example for .NET 6.0
+# Docker Azure function example for .NET 6.0
 An example project created to show how to dockerize .NET 6.0 function.
 The project is using v4 functions.
 
